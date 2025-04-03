@@ -2,7 +2,7 @@
 name = "system_health"
 version = "0.1.0"
 edition = "2024"
-authors = ["Your Name <your.email@example.com>"]
+authors = [" JU-NINE NGU CHO <chojuninengu@gmail.com>"]
 description = "A command-line tool to display system health information including battery status, RAM usage, and system resources"
 repository = "https://github.com/chojuninengu/system_health"
 license = "MIT"
